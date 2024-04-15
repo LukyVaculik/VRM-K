@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # VRM (Programming for Robots and Manipulators) : Template for Student Projects
 GitHub repository template for student projects in the university course VRM (Programming for Robots and Manipulators).
 
@@ -58,3 +59,7 @@ Roman.Parak@outlook.com
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+=======
+# VRM-K
+Programming for Robots and Manipulators - Projects repository
+>>>>>>> 600d2c3024fb81546add9c16a4ea6f7b87edebdb
